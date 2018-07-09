@@ -1,6 +1,6 @@
 
 This is a batch file to load hex files onto an IRIS microcontroller
-so that a customer or user should simply have to run the batch file
+so that a customer or user should simply have to run the batch file,
 enter their COM port, and hex file name, and it should load a hex file
 onto either orca or the eagle. The following command is an example of
 what avrdude needs
